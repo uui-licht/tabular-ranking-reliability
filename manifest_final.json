@@ -1,0 +1,314 @@
+[
+ {
+  "name": "pyd_Hdma",
+  "n": 2381,
+  "d": 6,
+  "classes": 2,
+  "target": "comdominiom",
+  "majority_share": 0.712
+ },
+ {
+  "name": "pyd_OFP",
+  "n": 4406,
+  "d": 10,
+  "classes": 2,
+  "target": "adldiff",
+  "majority_share": 0.796
+ },
+ {
+  "name": "pyd_Wages",
+  "n": 4165,
+  "d": 4,
+  "classes": 2,
+  "target": "ind",
+  "majority_share": 0.605
+ },
+ {
+  "name": "pyd_midwest",
+  "n": 437,
+  "d": 24,
+  "classes": 2,
+  "target": "inmetro",
+  "majority_share": 0.657
+ },
+ {
+  "name": "pyd_Boston",
+  "n": 506,
+  "d": 13,
+  "classes": 2,
+  "target": "chas",
+  "majority_share": 0.931
+ },
+ {
+  "name": "pyd_nlschools",
+  "n": 2287,
+  "d": 5,
+  "classes": 2,
+  "target": "COMB",
+  "majority_share": 0.725
+ },
+ {
+  "name": "pyd_mgus",
+  "n": 241,
+  "d": 8,
+  "classes": 2,
+  "target": "death",
+  "majority_share": 0.763
+ },
+ {
+  "name": "pyd_immigration",
+  "n": 2485,
+  "d": 4,
+  "classes": 2,
+  "target": "gender",
+  "majority_share": 0.534
+ },
+ {
+  "name": "rd_CardioDataSets_heartdisease_tbl_df",
+  "n": 303,
+  "d": 4,
+  "classes": 2,
+  "target": "BloodSugar",
+  "majority_share": 0.851
+ },
+ {
+  "name": "rd_DAAG_leafshape",
+  "n": 286,
+  "d": 7,
+  "classes": 2,
+  "target": "arch",
+  "majority_share": 0.671
+ },
+ {
+  "name": "rd_DAAG_dengue",
+  "n": 2000,
+  "d": 12,
+  "classes": 2,
+  "target": "NoYes",
+  "majority_share": 0.585
+ },
+ {
+  "name": "rd_DAAG_frogs",
+  "n": 212,
+  "d": 9,
+  "classes": 2,
+  "target": "pres.abs",
+  "majority_share": 0.627
+ },
+ {
+  "name": "rd_Ecdat_USGDPpresidents",
+  "n": 268,
+  "d": 16,
+  "classes": 2,
+  "target": "Keynes",
+  "majority_share": 0.847
+ },
+ {
+  "name": "rd_MedDataSets_bdims_tbl_df",
+  "n": 507,
+  "d": 24,
+  "classes": 2,
+  "target": "sex",
+  "majority_share": 0.513
+ },
+ {
+  "name": "rd_MedDataSets_babies_tbl_df",
+  "n": 1236,
+  "d": 7,
+  "classes": 2,
+  "target": "parity",
+  "majority_share": 0.745
+ },
+ {
+  "name": "rd_OncoDataSets_BreastCancerWI_df",
+  "n": 569,
+  "d": 30,
+  "classes": 2,
+  "target": "diagnosis",
+  "majority_share": 0.627
+ },
+ {
+  "name": "rd_OncoDataSets_ICGCLiver_df",
+  "n": 232,
+  "d": 5,
+  "classes": 2,
+  "target": "status",
+  "majority_share": 0.815
+ },
+ {
+  "name": "rd_Stat2Data_WalkTheDogs",
+  "n": 223,
+  "d": 4,
+  "classes": 2,
+  "target": "Walk",
+  "majority_share": 0.695
+ },
+ {
+  "name": "rd_Stat2Data_YouthRisk",
+  "n": 13387,
+  "d": 5,
+  "classes": 2,
+  "target": "ride.alc.driver",
+  "majority_share": 0.688
+ },
+ {
+  "name": "rd_agridat_cleveland.soil",
+  "n": 8641,
+  "d": 4,
+  "classes": 2,
+  "target": "is.ns",
+  "majority_share": 0.758
+ },
+ {
+  "name": "rd_bayesrules_spotify",
+  "n": 350,
+  "d": 15,
+  "classes": 2,
+  "target": "mode",
+  "majority_share": 0.554
+ },
+ {
+  "name": "rd_bayesrules_bike_users",
+  "n": 534,
+  "d": 5,
+  "classes": 2,
+  "target": "weekend",
+  "majority_share": 0.727
+ },
+ {
+  "name": "rd_camerondata_patentsrd",
+  "n": 346,
+  "d": 24,
+  "classes": 2,
+  "target": "scisect",
+  "majority_share": 0.575
+ },
+ {
+  "name": "rd_causaldata_adult_services",
+  "n": 1787,
+  "d": 30,
+  "classes": 2,
+  "target": "unsafe",
+  "majority_share": 0.505
+ },
+ {
+  "name": "rd_fivethirtyeight_governor_state_forecast",
+  "n": 7743,
+  "d": 4,
+  "classes": 2,
+  "target": "incumbent",
+  "majority_share": 0.823
+ },
+ {
+  "name": "rd_gt_nuclides",
+  "n": 3383,
+  "d": 9,
+  "classes": 2,
+  "target": "is_stable",
+  "majority_share": 0.928
+ },
+ {
+  "name": "rd_mi_nlsyV",
+  "n": 400,
+  "d": 6,
+  "classes": 2,
+  "target": "first",
+  "majority_share": 0.565
+ },
+ {
+  "name": "rd_mosaicData_HELPmiss",
+  "n": 470,
+  "d": 16,
+  "classes": 2,
+  "target": "female",
+  "majority_share": 0.764
+ },
+ {
+  "name": "rd_mosaicData_HELPrct",
+  "n": 453,
+  "d": 17,
+  "classes": 2,
+  "target": "female",
+  "majority_share": 0.764
+ },
+ {
+  "name": "rd_np_Engel95",
+  "n": 1655,
+  "d": 9,
+  "classes": 2,
+  "target": "nkids",
+  "majority_share": 0.621
+ },
+ {
+  "name": "rd_stevedata_chile88",
+  "n": 2700,
+  "d": 4,
+  "classes": 2,
+  "target": "sex",
+  "majority_share": 0.511
+ },
+ {
+  "name": "rd_stevedata_fakeTSCS",
+  "n": 2500,
+  "d": 7,
+  "classes": 2,
+  "target": "x2",
+  "majority_share": 0.504
+ },
+ {
+  "name": "rd_stevedata_ESSBE5",
+  "n": 1704,
+  "d": 6,
+  "classes": 2,
+  "target": "female",
+  "majority_share": 0.519
+ },
+ {
+  "name": "rd_survival_myeloma",
+  "n": 3882,
+  "d": 4,
+  "classes": 2,
+  "target": "death",
+  "majority_share": 0.713
+ },
+ {
+  "name": "rd_wooldridge_k401k",
+  "n": 1534,
+  "d": 7,
+  "classes": 2,
+  "target": "sole",
+  "majority_share": 0.512
+ },
+ {
+  "name": "skl_iris",
+  "n": 150,
+  "d": 4,
+  "classes": 3,
+  "target": "target",
+  "majority_share": 0.333
+ },
+ {
+  "name": "skl_wine",
+  "n": 178,
+  "d": 13,
+  "classes": 3,
+  "target": "target",
+  "majority_share": 0.399
+ },
+ {
+  "name": "skl_breast_cancer",
+  "n": 569,
+  "d": 30,
+  "classes": 2,
+  "target": "target",
+  "majority_share": 0.627
+ },
+ {
+  "name": "skl_digits",
+  "n": 1797,
+  "d": 64,
+  "classes": 10,
+  "target": "target",
+  "majority_share": 0.102
+ }
+]
